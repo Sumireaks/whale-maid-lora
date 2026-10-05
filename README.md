@@ -8,9 +8,9 @@ Dual-form whale girl LoRA for **Z-Image-Turbo** — one LoRA, two characters, co
 
 | File 文件 | Steps 步数 | Notes 说明 |
 |---|---|---|
-| [`ZImage-lora-whale-maid-4000steps.safetensors`](ZImage-lora-whale-maid-4000steps.safetensors) | 4000 | **Recommended 推荐** — cleanest details, most stable 细节最干净、最稳定 |
-| [`ZImage-lora-whale-maid-2000steps.safetensors`](ZImage-lora-whale-maid-2000steps.safetensors) | 2000 | Softer / may duplicate subjects 偏柔和，偶发主体重复 |
-| [`ZImage-lora-whale-maid-4800steps.safetensors`](ZImage-lora-whale-maid-4800steps.safetensors) | 4800 | Slightly stronger stylization 风格化略强 |
+| [`ZImage-lora-whale-maid-4000steps.safetensors`](https://github.com/Sumireaks/whale-maid-lora/releases/download/v1.0/ZImage-lora-whale-maid-4000steps.safetensors) | 4000 | **Recommended 推荐** — cleanest details, most stable 细节最干净、最稳定 |
+| [`ZImage-lora-whale-maid-2000steps.safetensors`](https://github.com/Sumireaks/whale-maid-lora/releases/download/v1.0/ZImage-lora-whale-maid-2000steps.safetensors) | 2000 | Softer / may duplicate subjects 偏柔和，偶发主体重复 |
+| [`ZImage-lora-whale-maid-4800steps.safetensors`](https://github.com/Sumireaks/whale-maid-lora/releases/download/v1.0/ZImage-lora-whale-maid-4800steps.safetensors) | 4800 | Slightly stronger stylization 风格化略强 |
 
 All versions were trained with the same dataset — pick by taste. Each file contains BOTH forms.
 三个版本训练数据完全相同，按口味挑选即可；每个文件都同时包含大小两种形态。
